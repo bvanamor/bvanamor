@@ -1,30 +1,185 @@
-<h1 align="center">Hi 👋, I'm Van Amor | Étudiant en cybersécurité</h1>
-<h3 align="center">Étudiant en Bachelor Cybersécurité à Ynov Campus Nantes. J'apprends à sécuriser les systèmes, comprendre les réseaux et développer des solutions backend.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bvanamor&label=Profile%20views&color=0e75b6&style=flat" alt="bvanamor" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D8A9E,50:1F2B2D,100:23717B&height=200&section=header&text=Van%20Amor&fontSize=55&fontColor=E5F9F8&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Systems%20%26%20Networks%20%7C%20Backend&descSize=15&descAlignY=60" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bvanamor" alt="bvanamor" /></a> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-bvanamor-0D8A9E?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bvanamor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-23717B?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
 
-- 🛡️ CTF Arena [Projet pratique autour de la cybersécurité, des bases de données et des environnements Docker.](Projet pratique autour de la cybersécurité, des bases de données et des environnements Docker.)
+</div>
 
-- ⚙️ Escape Engine API [Développement d'une API avec Python et FastAPI](Développement d'une API avec Python et FastAPI)
+<h2 align="center">About Me</h2>
 
-- ♟️ Chess Multigame **Projet de jeu d'échecs utilisant des technologies web et une API**
-
-- 🌐 Infrastructure réseau SIO-Énergie [Configuration d'un routeur Linux, d'un serveur DHCP et DNS, du routage IP et de l'accès à un serveur web](Configuration d'un routeur Linux, d'un serveur DHCP et DNS, du routage IP et de l'accès à un serveur web)
-
-- 📝 TP Wordle **Projet de développement autour du jeu Wordle**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://fr.linkedin.com/in/van-christ-amor-balouckou-28b0bb342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/van-christ-amor-balouckou-28b0bb342" height="30" width="40" /></a>
+<p align="center">
+  I'm Van Amor, a Cybersecurity student in my second year of the Bachelor's program at Ynov Campus Nantes, France.
+  <br><br>
+  I'm interested in cybersecurity, Linux systems, network infrastructure and backend development.
+  <br>
+  I enjoy understanding how systems work, building practical projects and learning how to secure IT environments.
+  <br><br>
+  My goal is to build strong technical skills and pursue a career in cybersecurity.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bvanamor&show_icons=true&locale=en&layout=compact" alt="bvanamor" /></p>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-0D8A9E?style=flat-square" />
+<img src="https://img.shields.io/badge/Systems-%26%20Networks-23717B?style=flat-square" />
+<img src="https://img.shields.io/badge/Development-Backend-1F2B2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Nantes%2C%20France-0D8A9E?style=flat-square" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bvanamor&show_icons=true&locale=en" alt="bvanamor" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bvanamor&" alt="bvanamor" /></p>
+<h2 align="center">Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>♟️ Chess Multigame</h3>
+
+A chess game project combining a web client and an API.
+
+<strong>Technologies:</strong> React, TypeScript, Vite, Deno.
+
+<a href="https://github.com/bvanamor/Chess_multigame">
+<img src="https://img.shields.io/badge/View%20Project-0D8A9E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛡️ CTF Arena</h3>
+
+A practical project involving cybersecurity, databases and containerized environments.
+
+<strong>Technologies:</strong> Docker, PostgreSQL, MariaDB.
+
+<a href="https://github.com/bvanamor/CTF-Arena">
+<img src="https://img.shields.io/badge/View%20Project-0D8A9E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚙️ Escape Engine API</h3>
+
+A Python backend project built with FastAPI, with automated tests.
+
+<strong>Technologies:</strong> Python, FastAPI, pytest.
+
+<a href="https://github.com/bvanamor/Find_Pierrot">
+<img src="https://img.shields.io/badge/View%20Project-23717B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌐 SIO-Energie Network Lab</h3>
+
+A network administration lab involving routing, DHCP, DNS, IP forwarding and web server access.
+
+<strong>Technologies:</strong> Debian, Linux, dnsmasq, iptables, VMware.
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Focus Areas</h2>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<h3>🔐 Cybersecurity</h3>
+
+Security fundamentals<br>
+Practical security labs<br>
+CTF challenges<br>
+Network security
+
+</td>
+<td align="center" width="33%">
+
+<h3>🌐 Systems & Networks</h3>
+
+Linux administration<br>
+TCP/IP networking<br>
+DHCP and DNS<br>
+Routing and firewalls
+
+</td>
+<td align="center" width="33%">
+
+<h3>⚙️ Backend Development</h3>
+
+Python development<br>
+REST APIs<br>
+Database management<br>
+Automated testing
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,bash&theme=dark" />
+</p>
+
+<h3 align="center">Systems, Networks & Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,debian,docker,git,github,vscode&theme=dark" />
+</p>
+
+<h3 align="center">Backend & Databases</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql&theme=dark" />
+</p>
+
+<h2 align="center">GitHub Statistics</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bvanamor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0D8A9E&icon_color=23717B&text_color=E5F9F8&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvanamor&layout=compact&hide_border=true&bg_color=0D1117&title_color=0D8A9E&text_color=E5F9F8" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=bvanamor&hide_border=true&background=0D1117&ring=0D8A9E&fire=12B2C1&currStreakLabel=E5F9F8&sideLabels=E5F9F8&dates=8B949E" />
+
+</div>
+
+<h2 align="center">Currently Learning</h2>
+
+<div align="center">
+
+🔐 Cybersecurity fundamentals
+
+🐧 Linux systems administration
+
+🌐 Network infrastructure and services
+
+⚙️ Backend development and REST APIs
+
+🐳 Docker and database management
+
+</div>
+
+<h2 align="center">My Approach</h2>
+
+<p align="center">
+Understand the system. Test it. Learn from it. Secure it.
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:23717B,50:1F2B2D,100:0D8A9E&height=120&section=footer" width="100%" />
+
+</div>
