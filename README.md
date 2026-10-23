@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bvanamor" alt="bvanamor" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🛡️ CTF Arena [Projet pratique autour de la cybersécurité, des bases de données et des environnements Docker.](Projet pratique autour de la cybersécurité, des bases de données et des environnements Docker.)
 
 - ⚙️ Escape Engine API [Développement d'une API avec Python et FastAPI](Développement d'une API avec Python et FastAPI)
