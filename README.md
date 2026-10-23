@@ -181,6 +181,9 @@ Understand the system. Test it. Learn from it. Secure it.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:23717B,50:1F2B2D,100:0D8A9E&height=120&section=footer" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D8A9E,100:23717B&amp;height=200&amp;section=footer" width="100%" alt="Footer Van Amor" />
+</div>
+
 
 </div>
