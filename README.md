@@ -147,7 +147,10 @@ Automated testing
 
 <h3 align="center">🐧 Systems & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,bash,git,github&theme=dark" alt="Systems and DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,bash,git,github&theme=dark" alt="Linux and DevOps tools" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
 <h3 align="center">🎨 Design & Development Tools</h3>
