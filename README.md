@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D8A9E,100:23717B&height=200&section=header&text=Van%20Amor&fontSize=55&fontColor=E5F9F8&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Systems%20%26%20Networks%20%7C%20Backend&descSize=15&descAlignY=60" width="100%" alt="Van Amor - Cybersecurity Student" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D8A9E,100:23717B&amp;height=200&amp;section=header&amp;text=Van%20Amor&amp;fontSize=55&amp;fontColor=E5F9F8&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cybersecurity%20Student%20%7C%20Linux%20%7C%20Backend&amp;descSize=15&amp;descAlignY=60" width="100%" alt="Van Amor - Cybersecurity Student" />
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-bvanamor-0D8A9E?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bvanamor)
